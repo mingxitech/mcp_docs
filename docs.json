@@ -122,6 +122,9 @@
     },
     "indexing": "navigable"
   },
+  "search": {
+    "prompt": "搜索文档"
+  },
   "footer": {
     "socials": {
       "github": "https://github.com/modelcontextprotocol"
