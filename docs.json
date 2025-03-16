@@ -97,8 +97,13 @@
           "icon": "square-k"
         },
         {
-          "anchor": "Specification",
+          "anchor": "规范（英文版）",
           "href": "https://spec.modelcontextprotocol.io",
+          "icon": "book"
+        },
+        {
+          "anchor": "规范（中文版）",
+          "href": "https://cdn.ximosoft.cn/mcp-spec/",
           "icon": "book"
         }
       ]
